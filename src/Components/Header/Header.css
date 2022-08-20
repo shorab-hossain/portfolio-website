@@ -1,0 +1,9 @@
+.menu-item {
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 20px;
+  color: black;
+}
+ul li {
+  list-style: none;
+}
